@@ -1,0 +1,11 @@
+numpy==1.15.4
+pandas==0.24.1
+scipy==1.2.1
+matplotlib==3.0.2
+scikit-learn==0.20.2
+seaborn==0.9.0
+python==3.6.8
+
+
+
+https://github.com/ahmedbesbes/How-to-score-0.8134-in-Titanic-Kaggle-Challenge/blob/master/article_1.ipynb
